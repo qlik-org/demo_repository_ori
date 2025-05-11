@@ -1,0 +1,241 @@
+{
+  "sourceDataEntityKey": {
+    "datasetId": "categories-x4nj",
+    "name": "Categories",
+    "projectId": "{{ref(project.current.projectId)}}",
+    "taskId": "onboarding_8_5_storage-x4nh"
+  },
+  "mappingFields": [
+    {
+      "columnId": "categoryid",
+      "expression": {
+        "expressionStatement": "${CategoryID}",
+        "alias": [
+          {
+            "name": "CategoryID",
+            "value": "CategoryID"
+          }
+        ]
+      }
+    },
+    {
+      "columnId": "description",
+      "expression": {
+        "expressionStatement": "${Description}",
+        "alias": [
+          {
+            "name": "Description",
+            "value": "Description"
+          }
+        ]
+      }
+    },
+    {
+      "columnId": "picture",
+      "expression": {
+        "expressionStatement": "${Picture}",
+        "alias": [
+          {
+            "name": "Picture",
+            "value": "Picture"
+          }
+        ]
+      }
+    },
+    {
+      "columnId": "newcolumn2",
+      "expression": {
+        "expressionStatement": "${NewColumn2}",
+        "alias": [
+          {
+            "name": "NewColumn2",
+            "value": "NewColumn2"
+          }
+        ]
+      }
+    },
+    {
+      "columnId": "newcolumn3",
+      "expression": {
+        "expressionStatement": "${NewColumn3}",
+        "alias": [
+          {
+            "name": "NewColumn3",
+            "value": "NewColumn3"
+          }
+        ]
+      }
+    },
+    {
+      "columnId": "newcolumn4",
+      "expression": {
+        "expressionStatement": "${NewColumn4}",
+        "alias": [
+          {
+            "name": "NewColumn4",
+            "value": "NewColumn4"
+          }
+        ]
+      }
+    },
+    {
+      "columnId": "newcolumn5",
+      "expression": {
+        "expressionStatement": "${NewColumn5}",
+        "alias": [
+          {
+            "name": "NewColumn5",
+            "value": "NewColumn5"
+          }
+        ]
+      }
+    },
+    {
+      "columnId": "newcolumn6",
+      "expression": {
+        "expressionStatement": "${NewColumn6}",
+        "alias": [
+          {
+            "name": "NewColumn6",
+            "value": "NewColumn6"
+          }
+        ]
+      }
+    },
+    {
+      "columnId": "newcolumn7",
+      "expression": {
+        "expressionStatement": "${NewColumn7}",
+        "alias": [
+          {
+            "name": "NewColumn7",
+            "value": "NewColumn7"
+          }
+        ]
+      }
+    },
+    {
+      "columnId": "newcolumn8",
+      "expression": {
+        "expressionStatement": "${NewColumn8}",
+        "alias": [
+          {
+            "name": "NewColumn8",
+            "value": "NewColumn8"
+          }
+        ]
+      }
+    },
+    {
+      "columnId": "newcolumn9",
+      "expression": {
+        "expressionStatement": "${NewColumn9}",
+        "alias": [
+          {
+            "name": "NewColumn9",
+            "value": "NewColumn9"
+          }
+        ]
+      }
+    },
+    {
+      "columnId": "newcolumn10",
+      "expression": {
+        "expressionStatement": "${NewColumn10}",
+        "alias": [
+          {
+            "name": "NewColumn10",
+            "value": "NewColumn10"
+          }
+        ]
+      }
+    },
+    {
+      "columnId": "newcolumn11",
+      "expression": {
+        "expressionStatement": "${NewColumn11}",
+        "alias": [
+          {
+            "name": "NewColumn11",
+            "value": "NewColumn11"
+          }
+        ]
+      }
+    },
+    {
+      "columnId": "newcolumn12",
+      "expression": {
+        "expressionStatement": "${NewColumn12}",
+        "alias": [
+          {
+            "name": "NewColumn12",
+            "value": "NewColumn12"
+          }
+        ]
+      }
+    },
+    {
+      "columnId": "newcolumn13",
+      "expression": {
+        "expressionStatement": "${NewColumn13}",
+        "alias": [
+          {
+            "name": "NewColumn13",
+            "value": "NewColumn13"
+          }
+        ]
+      }
+    },
+    {
+      "columnId": "column15",
+      "expression": {
+        "expressionStatement": "${column15}",
+        "alias": [
+          {
+            "name": "column15",
+            "value": "column15"
+          }
+        ]
+      }
+    },
+    {
+      "columnId": "column16",
+      "expression": {
+        "expressionStatement": "${column16}",
+        "alias": [
+          {
+            "name": "column16",
+            "value": "column16"
+          }
+        ]
+      }
+    },
+    {
+      "columnId": "ddddd",
+      "expression": {
+        "expressionStatement": "${ddddd}",
+        "alias": [
+          {
+            "name": "ddddd",
+            "value": "ddddd"
+          }
+        ]
+      }
+    },
+    {
+      "columnId": "mmmm",
+      "expression": {
+        "expressionStatement": "${mmmm}",
+        "alias": [
+          {
+            "name": "mmmm",
+            "value": "mmmm"
+          }
+        ]
+      }
+    }
+  ],
+  "id": "categories_default_mapping-x4np",
+  "name": "Categories_default_mapping",
+  "description": ""
+}

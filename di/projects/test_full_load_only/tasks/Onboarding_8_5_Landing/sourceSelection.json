@@ -1,0 +1,13 @@
+{
+  "sourceConnection": "{{task.onboarding_8_5_landing-x4ng.sourceConnection}}",
+  "includePatterns": [],
+  "excludePatterns": [],
+  "explicitlySelected": [
+    {
+      "name": "Categories",
+      "schema": "{{task.onboarding_8_5_landing-x4ng:null$_$dbo.schema}}",
+      "type": "TABLE",
+      "sourceTableId": "$replicate$dbo_categories"
+    }
+  ]
+}
